@@ -1,0 +1,33 @@
+﻿.bg-header, .bg-footer {
+    background: #eee;
+    padding: 20px;
+}
+
+.bg-header {
+    border-bottom: 1px #666 solid;
+    height: 25vh;
+}
+
+.bg-footer {
+    border-top: 1px #666 solid;
+    height: 11vh;
+}
+
+.bg-main {
+    height: 60vh;
+}
+
+.container {
+    min-width: 700px;
+}
+
+.controlColumn {
+    height: 290px;
+    padding: 20px;
+}
+
+#logIn {
+    position: absolute;
+    bottom: 32px;
+    right: 20px;
+}

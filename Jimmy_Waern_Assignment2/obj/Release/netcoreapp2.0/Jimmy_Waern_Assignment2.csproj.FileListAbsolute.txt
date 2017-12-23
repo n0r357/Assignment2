@@ -1,0 +1,12 @@
+C:\Users\jimmy\Documents\YHSUST16\Avancerad Webbutveckling ASP.NET\Inlämning2\Jimmy_Waern_Assignment2\Jimmy_Waern_Assignment2\bin\Release\netcoreapp2.0\Data\Users.csv
+C:\Users\jimmy\Documents\YHSUST16\Avancerad Webbutveckling ASP.NET\Inlämning2\Jimmy_Waern_Assignment2\Jimmy_Waern_Assignment2\bin\Release\netcoreapp2.0\Jimmy_Waern_Assignment2.deps.json
+C:\Users\jimmy\Documents\YHSUST16\Avancerad Webbutveckling ASP.NET\Inlämning2\Jimmy_Waern_Assignment2\Jimmy_Waern_Assignment2\bin\Release\netcoreapp2.0\Jimmy_Waern_Assignment2.runtimeconfig.json
+C:\Users\jimmy\Documents\YHSUST16\Avancerad Webbutveckling ASP.NET\Inlämning2\Jimmy_Waern_Assignment2\Jimmy_Waern_Assignment2\bin\Release\netcoreapp2.0\Jimmy_Waern_Assignment2.runtimeconfig.dev.json
+C:\Users\jimmy\Documents\YHSUST16\Avancerad Webbutveckling ASP.NET\Inlämning2\Jimmy_Waern_Assignment2\Jimmy_Waern_Assignment2\bin\Release\netcoreapp2.0\Jimmy_Waern_Assignment2.dll
+C:\Users\jimmy\Documents\YHSUST16\Avancerad Webbutveckling ASP.NET\Inlämning2\Jimmy_Waern_Assignment2\Jimmy_Waern_Assignment2\bin\Release\netcoreapp2.0\Jimmy_Waern_Assignment2.pdb
+C:\Users\jimmy\Documents\YHSUST16\Avancerad Webbutveckling ASP.NET\Inlämning2\Jimmy_Waern_Assignment2\Jimmy_Waern_Assignment2\obj\Release\netcoreapp2.0\Jimmy_Waern_Assignment2.csprojResolveAssemblyReference.cache
+C:\Users\jimmy\Documents\YHSUST16\Avancerad Webbutveckling ASP.NET\Inlämning2\Jimmy_Waern_Assignment2\Jimmy_Waern_Assignment2\obj\Release\netcoreapp2.0\Jimmy_Waern_Assignment2.csproj.CoreCompileInputs.cache
+C:\Users\jimmy\Documents\YHSUST16\Avancerad Webbutveckling ASP.NET\Inlämning2\Jimmy_Waern_Assignment2\Jimmy_Waern_Assignment2\obj\Release\netcoreapp2.0\Jimmy_Waern_Assignment2.AssemblyInfoInputs.cache
+C:\Users\jimmy\Documents\YHSUST16\Avancerad Webbutveckling ASP.NET\Inlämning2\Jimmy_Waern_Assignment2\Jimmy_Waern_Assignment2\obj\Release\netcoreapp2.0\Jimmy_Waern_Assignment2.AssemblyInfo.cs
+C:\Users\jimmy\Documents\YHSUST16\Avancerad Webbutveckling ASP.NET\Inlämning2\Jimmy_Waern_Assignment2\Jimmy_Waern_Assignment2\obj\Release\netcoreapp2.0\Jimmy_Waern_Assignment2.dll
+C:\Users\jimmy\Documents\YHSUST16\Avancerad Webbutveckling ASP.NET\Inlämning2\Jimmy_Waern_Assignment2\Jimmy_Waern_Assignment2\obj\Release\netcoreapp2.0\Jimmy_Waern_Assignment2.pdb
