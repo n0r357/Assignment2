@@ -32,7 +32,7 @@ namespace Jimmy_Waern_Assignment2
                 options.AddPolicy("HiddenPolicy", policy => policy.RequireRole("Publisher", "Subscriber", "Administrator"));
                 options.AddPolicy("AdultPolicy", policy => policy.Requirements.Add(new MinimumAgeRequirement(20)));
                 options.AddPolicy("SportsPolicy", policy => policy.RequireRole("Publisher", "Administrator"));
-                options.AddPolicy("CulturePolicy", policy => policy.RequireRole("Publisher", "Administrator"));
+                options.AddPolicy("CulturePolicy", policy => policy.RequireRole("Administrator"));
             });
 
             services.AddMvc();
